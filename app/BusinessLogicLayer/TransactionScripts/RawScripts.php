@@ -63,7 +63,7 @@ class RawScripts {
                     ]);
             }
             else {
-                // THERE IS NOT ENOGH STOCK -> ROLLBACK
+                // THERE IS NOT ENOUGH STOCK -> ROLLBACK
                 $rollback = true;
                 break;
             }
